@@ -17,15 +17,15 @@
 
 <p align="center">
   <a href="https://www.niharshah.in">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=niharshah.in" height="55"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/niharshah0405">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:niharshah0405@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -91,17 +91,12 @@ Currently exploring scalable AI orchestration, RAG architectures, and real-time 
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/keras/D00000" width="48"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="48"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
 ## 🛠 Tools
@@ -110,20 +105,16 @@ Currently exploring scalable AI orchestration, RAG architectures, and real-time 
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihar5hah&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar5hah&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar5hah&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---

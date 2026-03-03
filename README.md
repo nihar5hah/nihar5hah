@@ -1,13 +1,12 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
+<!-- Animated Header -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nihar+Shah;Applied+AI+Systems+Builder;Multi-Agent+Architectures;RAG+%7C+Evaluation+%7C+Automation;Building+AI+That+Works" />
-</h1>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nihar5hah&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<!-- Wave Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=header"/>
 </p>
@@ -18,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.niharshah.in">
-    <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+    <img src="https://www.google.com/s2/favicons?sz=64&domain=niharshah.in" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/niharshah0405">
@@ -36,7 +35,7 @@
 
 I’m a Computer Science undergraduate focused on building **applied AI systems that go beyond demos**.
 
-I build multi-agent architectures, evaluation-driven AI platforms, and production-ready automation systems — turning AI ideas into structured, reliable infrastructure.
+I design multi-agent architectures, evaluation-driven AI platforms, and production-ready automation systems — turning AI ideas into structured, reliable infrastructure.
 
 Currently exploring scalable AI orchestration, RAG architectures, and real-time AI observability systems.
 
@@ -53,14 +52,14 @@ Currently exploring scalable AI orchestration, RAG architectures, and real-time 
 
 ## 🧠 Core Focus Areas
 
-```
-Multi-Agent Orchestration
-AI Evaluation & Benchmarking
-RAG Architectures
-Conversational AI Systems
-Production AI Workflows
-Automation-First Design
-```
+<p align="center">
+  <b>Multi-Agent Orchestration</b> •
+  <b>AI Evaluation & Benchmarking</b> •
+  <b>RAG Architectures</b> •
+  <b>Conversational AI Systems</b> •
+  <b>Production AI Workflows</b> •
+  <b>Automation-First Design</b>
+</p>
 
 ---
 
@@ -92,12 +91,17 @@ Automation-First Design
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="48"/>
 </p>
 
 ## 🛠 Tools
@@ -106,7 +110,7 @@ Automation-First Design
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48"/>
 </p>
 
 ---
@@ -124,7 +128,6 @@ Automation-First Design
 
 ---
 
-<!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
 </p>

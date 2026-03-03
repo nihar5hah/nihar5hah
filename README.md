@@ -1,107 +1,24 @@
-<h1 align="center">Hey there 👋 I'm Nihar</h1>
+# 💫 About Me:
+I’m a Computer Science undergraduate focused on building applied AI systems that go beyond demos.<br><br>I design multi-agent architectures, evaluation-driven AI platforms, and production-ready automation systems — turning AI ideas into reliable infrastructure.<br>🚀 What I'm Building<br><br>    🔥 KalExam — RAG-powered AI learning & evaluation platform<br>    🤖 OpenClaw Multi-Agent System — autonomous orchestration with task delegation<br>    📊 Mission Control — real-time dashboard for AI agent monitoring<br>    🎯 HireAI — AI-driven job assessment & screening platform<br>
 
-<p align="center">
-  <b>Applied AI Systems Builder</b><br/>
-  Multi-Agent Architectures • RAG Systems • Production AI Workflows
-</p>
 
-<p align="center">
-  <a href="https://www.niharshah.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/niharshah0405/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:niharshah0405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharshah0405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharshah0405@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nihar5shah&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nihar5shah&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar5shah&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧠 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nihar5shah&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-I’m a Computer Science undergraduate focused on building applied AI systems that go beyond demos.
-
-I design multi-agent architectures, evaluation-driven AI platforms, and production-ready automation systems — turning AI ideas into reliable infrastructure.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nihar5shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nihar5shah&icon=0&color=6)](https://visitcount.itsvg.in)
 
-## 🚀 What I'm Building
-
-- 🔥 **KalExam** — RAG-powered AI learning & evaluation platform  
-- 🤖 **OpenClaw Multi-Agent System** — autonomous orchestration with task delegation  
-- 📊 **Mission Control** — real-time dashboard for AI agent monitoring  
-- 🎯 **HireAI** — AI-driven job assessment & screening platform  
-
----
-
-## 🛠 Tech Stack
-
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs" />
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-</p>
-
-### 🤖 AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-</p>
-
-### ⚙️ Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
----
-
-## 📌 Focus Areas
-
-- Multi-Agent AI Orchestration  
-- AI Evaluation & Assessment Platforms  
-- RAG Architectures  
-- Conversational AI Systems  
-- Production AI Workflows  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihar5hah&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar5hah&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧩 Current Philosophy
-
-> Build systems that work.  
-> Structure before scale.  
-> Evaluation before deployment.
-
----
-
-## 📫 Let’s Connect
-
-If you're interested in applied AI systems, multi-agent workflows, or evaluation-driven architectures — let’s talk.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihar5hah&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

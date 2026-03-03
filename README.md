@@ -44,9 +44,7 @@ Currently exploring scalable AI orchestration, RAG architectures, and real-time 
 ## 🚀 What I'm Building
 
 - 🔥 **KalExam** — RAG-powered AI learning & evaluation platform  
-- 🤖 **OpenClaw Multi-Agent System** — autonomous orchestration with structured task delegation  
-- 📊 **Mission Control** — real-time dashboard for monitoring AI agent activity  
-- 🎯 **HireAI** — AI-powered job assessment & screening system  
+- 🤖 **OpenClaw Multi-Agent System** — autonomous orchestration with structured task delegation   
 
 ---
 
